@@ -20,10 +20,10 @@
     "expo-constants": "^5.0.0",
     "expo-font": "^5.0.0",
     "expo-web-browser": "^5.0.0",
-    "react": "16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "16.14.0",
+    "react-dom": "^16.14.0",
     "react-native": "0.63.3",
-    "react-native-web": "^0.13.11",
+    "react-native-web": "^0.13.15",
     "react-navigation": "^3.13.0"
   },
   "devDependencies": {
